@@ -1,10 +1,13 @@
+
+
+/* 	WAP print 'Hello World' on screen and
+ *  then print your name on a separate line.*/
 package Experiment;
-import static java.lang.System.out;
+
 public class Experiment_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		out.println("Hello World!\nAyan Raza");
+		System.out.println("Hello World!\nAyan Raza");
 	}
-
 }
