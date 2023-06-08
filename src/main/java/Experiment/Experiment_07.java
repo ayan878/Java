@@ -1,3 +1,6 @@
+
+/*7. WAP to find addition and multiplication of two Matrices.
+*/
 package Experiment;
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+/*WAP that uses length property for displaying any number of command line arguments.*/
 package Experiment;
 
 public class Experiment_05 {

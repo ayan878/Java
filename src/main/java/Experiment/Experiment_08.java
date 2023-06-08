@@ -1,8 +1,8 @@
+// 8. WAP to find the largest among n numbers.
 package Experiment;
 
 import java.util.Scanner;
 
-//WAP to find maximum in array
 class Experiment_08
  { 
 //	int[] arr=null;

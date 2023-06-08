@@ -1,3 +1,4 @@
+//10. WAP to create constructor of a class and initialize values in it and later print them.
 package Experiment;
 
 public class Experiment_10 {
